@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Süleyman 👋
 
-<!--
-**suleymankolenoglu1/suleymankolenoglu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Software Engineering student at Kocaeli University, focused on **AI Engineering, Applied AI, and backend systems**.
 
-Here are some ideas to get you started:
+I build AI-powered software for real industrial workflows, with hands-on experience in **agentic systems, backend development, computer vision experiments, and production applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **AI-Powered U.S. Market Analyzer** — agentic product and market research for industrial catalogs
+- **Industrial Product Photography Platform** — production workflow for catalog and product photography operations
+- **Agentic Product Search Platform** — catalog-aware AI search for complex industrial spare parts
+
+## Tech
+
+**Languages:** Python, C#, JavaScript, SQL  
+**Backend:** FastAPI, .NET, REST APIs  
+**AI / Applied AI:** LLM APIs, Agentic Workflows, YOLO, DINOv3  
+**Data / Infrastructure:** PostgreSQL, Docker, Git
+
+## Current Focus
+
+I'm currently strengthening my foundations in **AI engineering, computer vision, algorithms, and data structures** while continuing to build production-oriented software.
+
+📍 Kocaeli, Türkiye
